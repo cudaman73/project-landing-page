@@ -1,0 +1,19 @@
+body {
+  background-color: #EFEFEF;
+}
+
+hr {
+  border-color: black;
+  opacity: 20%;
+  border-style: dotted none none none;
+  border-width: 8px;
+  width: 8%
+}
+
+h1, h3{
+  color: #518287;
+}
+
+p, table, form{
+  color: #4b7275;
+}
